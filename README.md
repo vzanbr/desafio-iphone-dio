@@ -1,6 +1,6 @@
 # Projeto Trilha java DIO Backend
 
-#### Conta bancaria simples
+#### Desafio do iphone simples
 
 - 💬 Descrição e objetivo: Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
